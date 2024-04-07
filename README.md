@@ -1,6 +1,15 @@
 ### Presentation of the [Coding and Programming Event](https://connect.fbla.org/headquarters/files/High%20School%20Competitive%20Events%20Resources/Individual%20Guidelines/Presentation%20Events/Coding--Programming.pdf) for the 2024 Georgia FBLA State Leadership Conference
 *  We won 2nd and qualified to represent Georgia in the 2024 National Conference.
 *  Source Code available upon [request](mailto:rafeekarshad@gmail.com).
+  
+# 2023-2024 Topic
+Create a program that allows your school’s Career and Technical Education Department to
+collect and store information about business and community partners. This program should
+include information on at least 25 different partners (real or fictional), with details such as,
+but not limited to, the type of organization, resources available, and direct contact
+information for an individual. The program should enable users to search and filter the
+information as needed.
+
 
 ## Presentation Slides
 <img src="https://github.com/ArshadRM/FBLA-Coding-Programming-2024-Presentation/blob/main/presentation_images/images/1.png?raw=true" alt="intro-slide"/>
