@@ -99,4 +99,4 @@ If you are running on Linux, you may need to reinstall the sqlite3 module from n
 
 *   [express.js](https://expressjs.com/) - used to host the server-side code.
 *   [sqlite3](https://www.npmjs.com/package/sqlite3) - used to make connections to the sqlite3 databases.
-
+*   All of the HTML, JS, and CSS are custom.
